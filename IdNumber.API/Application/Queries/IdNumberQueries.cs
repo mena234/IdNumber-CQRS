@@ -6,7 +6,7 @@ using System.Data.SqlClient;
 using IdNumber.Application.Queries;
 using Dapper;
 
-namespace Salary.API.Application.Queries
+namespace IdNumber.Application.Queries
 {
     public class IdNumberQueries : IIdNumberQuery
 

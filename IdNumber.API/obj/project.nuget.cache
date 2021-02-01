@@ -1,13 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "AT/hX1VaDqvXx736oO+bA4W7xiZiwza5JoJRDKKxyY6/gDagmqwjXuS4vVVXBOGclmeesXMZUky9zuBxNAHAwA==",
+  "dgSpecHash": "5zoQcqUbTpQN3HdRN6wd0Bp8B5lq3TrpGMd3UWPZQpmTO+BjjphH26oiszjVh5/AlONY+pJ2ehpWzGqGiWSM2A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mina Morcos\\source\\repos\\IdNumber-CQRS\\IdNumber.API\\IdNumber.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mina Morcos\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\Mina Morcos\\.nuget\\packages\\fluentvalidation\\9.5.0\\fluentvalidation.9.5.0.nupkg.sha512",
-    "C:\\Users\\Mina Morcos\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.0\\fluentvalidation.aspnetcore.9.5.0.nupkg.sha512",
-    "C:\\Users\\Mina Morcos\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.0\\fluentvalidation.dependencyinjectionextensions.9.5.0.nupkg.sha512",
     "C:\\Users\\Mina Morcos\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Mina Morcos\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",
