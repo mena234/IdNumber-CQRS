@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e0vp1nceIbV2t3ctNWpmEofDxQb2Lz/cvUP65IxowZEGyi+xHclzLHkpvWPg1qV9EVTTEjB0rivS54V2Y3iJ+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\menan\\source\\repos\\IdNumber\\IdNumber.Domain\\IdNumber.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\menan\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
