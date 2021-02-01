@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\menan\\source\\repos\\IdNumber\\IdNuber.Infrastructure\\IdNumber.Infrastructure.csproj": {}
+    "C:\\Users\\Mina Morcos\\source\\repos\\IdNumber-CQRS\\IdNuber.Infrastructure\\IdNumber.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\menan\\source\\repos\\IdNumber\\IdNuber.Infrastructure\\IdNumber.Infrastructure.csproj": {
+    "C:\\Users\\Mina Morcos\\source\\repos\\IdNumber-CQRS\\IdNuber.Infrastructure\\IdNumber.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\menan\\source\\repos\\IdNumber\\IdNuber.Infrastructure\\IdNumber.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Mina Morcos\\source\\repos\\IdNumber-CQRS\\IdNuber.Infrastructure\\IdNumber.Infrastructure.csproj",
         "projectName": "IdNumber.Infrastructure",
-        "projectPath": "C:\\Users\\menan\\source\\repos\\IdNumber\\IdNuber.Infrastructure\\IdNumber.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\menan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\menan\\source\\repos\\IdNumber\\IdNuber.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Mina Morcos\\source\\repos\\IdNumber-CQRS\\IdNuber.Infrastructure\\IdNumber.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Mina Morcos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mina Morcos\\source\\repos\\IdNumber-CQRS\\IdNuber.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\menan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mina Morcos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -76,7 +76,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
