@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdNumber.API", "IdNumber.API\IdNumber.API.csproj", "{065142DD-0CF1-4663-882A-D8B9F123FE59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdNumber.Infrastructure", "IdNuber.Infrastructure\IdNumber.Infrastructure.csproj", "{06957816-5BB8-4035-B744-5E5D6AEE978A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{065142DD-0CF1-4663-882A-D8B9F123FE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065142DD-0CF1-4663-882A-D8B9F123FE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065142DD-0CF1-4663-882A-D8B9F123FE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065142DD-0CF1-4663-882A-D8B9F123FE59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06957816-5BB8-4035-B744-5E5D6AEE978A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06957816-5BB8-4035-B744-5E5D6AEE978A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06957816-5BB8-4035-B744-5E5D6AEE978A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06957816-5BB8-4035-B744-5E5D6AEE978A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBEA2547-07B3-45E0-8B3B-513E758BF808}
+	EndGlobalSection
+EndGlobal
